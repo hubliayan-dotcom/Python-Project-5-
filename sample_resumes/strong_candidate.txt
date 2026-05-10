@@ -1,0 +1,6 @@
+John Doe
+Full Stack Developer
+Skills: Python, SQL, React, Docker, AWS
+Experience: 8 years of experience in building scalable web applications.
+Education: Bachelor's in Computer Science.
+Contact: john.doe@example.com

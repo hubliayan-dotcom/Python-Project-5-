@@ -1,0 +1,6 @@
+{
+  "name": "Automated Resume Screening Tool",
+  "description": "A complete ML-powered ATS tool using TF-IDF, skill matching, and experience analysis to rank candidates effectively.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

@@ -1,0 +1,6 @@
+Bob Brown
+Retail Associate
+Skills: Customer Service, Inventory Management, Cashiering
+Experience: 1 year of experience in retail.
+Education: High School Diploma.
+Contact: bob.brown@example.com

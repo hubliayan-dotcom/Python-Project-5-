@@ -1,0 +1,6 @@
+Jane Smith
+Frontend Developer
+Skills: Java, HTML, CSS, JavaScript, SQL
+Experience: 3 years of experience in web development.
+Education: Bachelor's in Information Technology.
+Contact: jane.smith@example.com
