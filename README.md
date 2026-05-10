@@ -46,10 +46,16 @@ Modern ATS platforms use automated resume screening to reduce manual hiring effo
 ## 📸 Screenshots
 
 ### Job Configuration Dashboard
-![Dashboard](https://raw.githubusercontent.com/lucide-react/lucide/main/icons/layout-dashboard.svg) *Interface for defining job requirements and skills.*
+![Job Configuration Dashboard](job-configuration-dashboard.png)
 
-### Resume Ranking System
-![Ranking](https://raw.githubusercontent.com/lucide-react/lucide/main/icons/list-ordered.svg) *Real-time prioritized list of processed candidates.*
+Configure hiring requirements, upload resumes, and define candidate matching criteria.
+
+---
+
+### Candidate Ranking & Skill Analysis
+![Candidate Ranking System](candidate-ranking-system.png)
+
+AI-powered ranking dashboard showing TF-IDF similarity, skill matching, experience analysis, and candidate shortlisting.
 
 ## 🛠️ Tech Stack
 - **Frontend**: React 18, Vite, Tailwind CSS, Motion (Animations)
